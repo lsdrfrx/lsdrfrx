@@ -6,8 +6,6 @@
   
   <br/><br/>
   
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
   <br/>
@@ -19,7 +17,7 @@
 
 I've started my coding journey as backend developer. At the short time I've became a fullstack-developer on React.js and NestJS. After few years I've abandon web-development because of it's boredom, and got interested with data science and machine learning. Now I'm working in the scientific and ML-engineering fields and making cross-platform apps on Flutter as a hobby at the freetime :)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lsdrfrx&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lsdrfrx&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Now I'm working on a couple of interesting pet and neurobiological projects, i.e. self/project-management tool; biological spiking neural network simulator; simulation of the olfactory system. Sounds fun, because subject differs a lot 🤡
 
