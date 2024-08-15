@@ -22,6 +22,7 @@
 
 I've started my coding journey as backend developer. At the short time I've became a fullstack-developer on React.js and NestJS. After few years I've abandon web-development because of it's boredom, and got interested with data science and machine learning. Now I'm working in the scientific and ML-engineering fields.
 
+Out of duty I play games and learn languages: English, Español, 한국인.
+
 <img src="https://myreadme.vercel.app/api/embed/lsdrfrx?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-Out of duty I learn languages: English, Español, 한국인; play games and walk my lovely dog ❤ 
