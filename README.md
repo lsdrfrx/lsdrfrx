@@ -4,7 +4,7 @@
   <h3>My name is Christian Guetnga.</h3>
   I'm a versatile developer :)<br/>
   
-  <br/><br/>
+  <br/>
   
   ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
